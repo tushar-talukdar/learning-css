@@ -1,0 +1,12 @@
+body {
+    background-image: url(./image/forest.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+html , body {
+    height: 100%;
+    margin: 0%;
+}
