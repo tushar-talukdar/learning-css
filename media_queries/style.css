@@ -1,0 +1,15 @@
+.box {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    padding: 3px;
+    background-color: slateblue;
+}
+
+@media screen and (max-width: 300px) and (min-width:200px){
+    .box {
+       border-radius: 50%;
+       background-color: midnightblue;
+
+    }
+}
