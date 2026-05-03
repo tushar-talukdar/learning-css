@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+#container {
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 25%;
+    border: 5px solid white;
+    border-width: 5px 5px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+}
+
+#img_container {
+    width: 100%;
+    border-bottom: 4px solid red;
+}
